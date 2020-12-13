@@ -14,4 +14,4 @@ With the provided user inputs at runtime, the following module will load image d
 
 ![img](machviz.jpg)
 
-![demo](img_demo.png)
+![demo](img_recog_demo.png)
